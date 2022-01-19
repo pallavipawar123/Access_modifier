@@ -1,0 +1,10 @@
+package Am3;
+
+import Am3.*;
+public class proAccessModifier {
+
+	protected void display() 
+    { 
+        System.out.println("This is protected access specifier"); 
+    } 
+}

@@ -1,0 +1,11 @@
+package Am3;
+
+
+import Am3.*;
+public class pubAccessModifire {
+
+	public void display() 
+    { 
+        System.out.println("This is Public Access Specifiers"); 
+    } 
+}
